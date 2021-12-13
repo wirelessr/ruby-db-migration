@@ -5,4 +5,3 @@
 2. node.js v14.18.1
 3. npm + yarn
 4. wait-port
-5. xmllint
